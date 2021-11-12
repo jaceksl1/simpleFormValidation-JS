@@ -26,9 +26,9 @@ body {
 .blob {
   position: absolute;
   top: 0;
-  left: 0;
+  left: 100px;
   fill: #eecda3;
-  width: 50vmax;
+  width: 15vmax;
   z-index: -1;
   animation: move 10s ease-in-out infinite;
   transform-origin: 50% 50%;
